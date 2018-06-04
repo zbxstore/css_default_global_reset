@@ -1,8 +1,8 @@
 # CSS默认全局重置
 
 #### 项目介绍
-{**基于normalize.css的全局样式重置**
-[https://gitee.com/enterprises](https://gitee.com/enterprises)}
+>**基于normalize.css的全局样式重置**
+[https://gitee.com/enterprises](https://gitee.com/enterprises)
 
 #### 软件架构
 软件架构说明
