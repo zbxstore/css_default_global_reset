@@ -2,7 +2,7 @@
 
 #### 项目介绍
 >**基于normalize.css的全局样式重置**
-[https://gitee.com/enterprises](https://gitee.com/enterprises)
+[http://necolas.github.io/normalize.css/](http://necolas.github.io/normalize.css/)
 
 #### 软件架构
 软件架构说明
